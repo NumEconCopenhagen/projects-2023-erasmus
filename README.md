@@ -1,7 +1,7 @@
 # \[Erasmus\]
 
 **Group members:**
-- A
+- Eduard Ventura Aisa
 - B
 - C
 
