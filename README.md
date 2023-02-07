@@ -1,4 +1,4 @@
-# \[Erasmu\]
+# \[Erasmus\]
 
 **Group members:**
 - A
